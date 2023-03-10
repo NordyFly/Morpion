@@ -16,6 +16,7 @@ Le robot utilise une stratégie aléatoire pour choisir sa prochaine case.
 - Vs Code
 - Docker 
 - HTML/CSS
+- Tailwinds CSS
 - JavaScript
 
 
